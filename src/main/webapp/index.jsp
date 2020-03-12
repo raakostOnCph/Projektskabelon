@@ -20,7 +20,7 @@
             <tr><td>Login</td>
                 <td>
                     <form name="login" action="FrontController" method="POST">
-                        <input type="hidden" name="taget" value="login">
+                        <input type="hidden" name="target" value="login">
                         Email:<br>
                         <input type="text" name="email" value="someone@nowhere.com">
                         <br>
