@@ -33,7 +33,7 @@
                 <td>Or Register</td>
                 <td>
                     <form name="register" action="FrontController" method="POST">
-                        <input type="hidden" name="taget" value="register">
+                        <input type="hidden" name="target" value="register">
                         Email:<br>
                         <input type="text" name="email" value="someone@nowhere.com">
                         <br>
